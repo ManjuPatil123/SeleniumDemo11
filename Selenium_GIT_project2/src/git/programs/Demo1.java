@@ -7,6 +7,15 @@ public class Demo1
 		System.out.println("Hello This is M1");
 	}
 
+	
+	public void m3()
+	{
+		System.out.println("Hello This is M1");
+	}
+	public void m4()
+	{
+		System.out.println("Hello This is M1");
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Hello Git");
